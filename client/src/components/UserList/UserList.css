@@ -1,0 +1,12 @@
+input[type="search"] {
+    padding: 10px 15px 10px 50px;
+    font-size: 36px;
+    color: #1f5350;
+    /*removing boder from search box*/
+    border: none;
+    background-size: 35px 35px;
+    /*positioning background image*/
+    background-position: 8px 12px;
+    /*changing background color form white*/
+    background-color: #7accc8;
+  }
